@@ -33,6 +33,7 @@ const dio = {
   learning: ["Kotlin", "Flutter"],
   interests: ["Open Source", "UI/UX", "Clean Code"],
   email: "diofikriyanto3321@gmail.com"
+  currentProject: "Frontilo-All-In-One-Tools-Website"
   };
 ```
 ## ❤️ My Motivation
