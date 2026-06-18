@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Dio+Fikriyanto;Full-Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dio+Fikriyanto;Full-Stack+%26+Mobile+Developer;AI+Automation+Engineer;Open+Source+Enthusiast" alt="Typing Animation" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D-Indonesia-FF6B6B?style=flat-square" alt="Location" />
@@ -29,12 +29,12 @@
 ```typescript
 const dio = {
   location: "Indonesia 🇮🇩",
-  currentFocus: "Mobile & Web Development",
-  learning: ["Kotlin", "Flutter"],
-  interests: ["Open Source", "UI/UX", "Clean Code"],
-  email: "diofikriyanto3321@gmail.com"
+  currentFocus: "Full-Stack, Mobile & AI Automation",
+  learning: ["n8n", "LangChain", "Flutter"],
+  interests: ["Building Useful Apps", "AI", "Automation", "Open Source"],
+  email: "diofikriyanto3321@gmail.com",
   currentProject: "Frontilo-All-In-One-Tools-Website"
-  };
+};
 ```
 ## ❤️ My Motivation
 
