@@ -50,7 +50,7 @@ I want to prove that I can become someone great.
 
 I do this for Allah, who guides my path.
 For my Mom and Dad, who raised me with love and sacrifice.
-And for my love J, someone special who gives me strength and motivation ❤️
+And for my love, someone special who gives me strength and motivation ❤️
 
 Every line of code I write is not just about programming.
 It's about my journey, my growth, and my dream.
